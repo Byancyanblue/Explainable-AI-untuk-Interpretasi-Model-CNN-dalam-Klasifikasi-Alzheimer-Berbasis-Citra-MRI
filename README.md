@@ -71,7 +71,7 @@ alzheimer-cnn-xai/
     └── efficientnetb2/
 ```
 
-> Struktur di atas akan berkembang menjadi bentuk modular (`src/`, `configs/`, `docs/`) seiring progres penelitian — lihat Bagian 10.
+> Struktur di atas akan berkembang menjadi bentuk modular (`src/`, `configs/`, `docs/`) seiring progres
 
 ## 5. Alur Kerja (Pipeline)
 
