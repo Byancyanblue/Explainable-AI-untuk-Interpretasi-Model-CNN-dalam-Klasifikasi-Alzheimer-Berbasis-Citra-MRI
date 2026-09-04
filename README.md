@@ -1,0 +1,2 @@
+# Explainable-AI-untuk-Interpretasi-Model-CNN-dalam-Klasifikasi-Alzheimer-Berbasis-Citra-MRI
+Klasifikasi tingkat keparahan Alzheimer dari citra MRI otak menggunakan pre-trained CNN (VGG19, ResNet50, EfficientNetB2) dipadukan Explainable AI (Grad-CAM, LIME, SHAP). Penelitian ini mengevaluasi objektif ketiga metode XAI serta kesesuaiannya dengan literatur medis, guna memahami cara kerja model di balik prediksinya.
